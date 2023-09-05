@@ -76,5 +76,8 @@
     "parserOptions": {
       "parser": "babel-eslint"
     }
+  },
+  "engines": {
+    "node": "12.22.12"
   }
 }
